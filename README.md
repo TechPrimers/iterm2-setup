@@ -26,4 +26,5 @@ If you thing, the above customizations are not enough, try this one which has st
 
 ## Windows users
 You are not left alone, follow the below article to get these features on Windows 
+
 <b>Source:</b> [How to install zsh and oh my zsh on Windows 10](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
