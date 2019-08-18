@@ -13,7 +13,7 @@ Installation steps for [iterm2](https://www.iterm2.com/) and [oh-my-zsh](https:/
 <b>Source:</b> [Powerup your terminal using Oh My Zsh and iTerm2](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
 
 ## Customization
-Remote `username@machine_name` from the prompt by adding the below command in `~/.zshrc` file
+Remove `username@machine_name` from the prompt by adding the below command in `~/.zshrc` file
 ```
 export DEFAULT_USER=`whoami`
 ```
