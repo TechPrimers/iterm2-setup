@@ -24,6 +24,9 @@ If you thing, the above customizations are not enough, try this one which has st
 
 <b>Source:</b> [Configuration of a beautiful efficient terminal and prompt on OSX in 7 minutes](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
 
+### PowerLevel10k theme
+- Used [Powerlevel10k](https://github.com/romkatv/powerlevel10k#powerlevel10k) Theme
+
 ## Windows users
 You are not left alone, follow the below article to get these features on Windows 
 
