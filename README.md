@@ -5,6 +5,7 @@ The following are the iTerm2 setup details which I followed for my OSX
 - [Installation](#installation)
 - [Customization](#customization)
 - [More customizations](#more-customizations)
+  - [PowerLevel10k Theme](#powerlevel10k-theme)
 - [Windows users](#windows-users)
 
 ## Installation
@@ -24,7 +25,7 @@ If you thing, the above customizations are not enough, try this one which has st
 
 <b>Source:</b> [Configuration of a beautiful efficient terminal and prompt on OSX in 7 minutes](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
 
-### PowerLevel10k theme
+### PowerLevel10k Theme
 - Used [Powerlevel10k](https://github.com/romkatv/powerlevel10k#powerlevel10k) Theme
 
 ## Windows users
